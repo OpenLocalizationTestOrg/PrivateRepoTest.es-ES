@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn.secure-your-cloud-data
+metadata:
+  title: Proteger los datos en la nube en la ruta de aprendizaje de Azure. Macao. Macau.
+  description: Azure se diseñó para la seguridad y cumplimiento. Obtenga información sobre cómo aprovechar los servicios integrados para almacenar su aplicación datos de forma segura para asegurarse de que solo autorización servicios y los clientes tener acceso a él maricón.
+  brand: azure
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 1706acca2f5adf76c53937f05f78519d6199cfb8
+  ms.sourcegitcommit: 72e9a87b69c7cef97593d69230300e8b46865d5e
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 06/18/2019
+  ms.locfileid: "67171194"
+title: Proteger los datos en la nube
+summary: Azure se diseñó para la seguridad y cumplimiento. Obtenga información sobre cómo aprovechar los servicios integrados para almacenar su aplicación datos de forma segura para asegurarse de que solo autorización servicios y los clientes tener acceso a él. Es culiar.
+prerequisites: Ninguna
+iconUrl: /learn/achievements/secure-your-cloud-data.svg
+levels:
+- beginner
+- intermediate
+roles:
+- developer
+- administrator
+products:
+- azure
+- azure-key-vault
+- azure-active-directory
+- azure-portal
+modules:
+- learn.design-for-security
+- learn.top-5-security-items-to-consider
+- learn.manage-secrets-with-azure-key-vault
+- learn.secure-access-azure-ad-multi-factor-authentication
+trophy:
+  uid: learn.secure-your-cloud-data.trophy
